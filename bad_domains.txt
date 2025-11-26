@@ -1,6 +1,0 @@
-.clickbait
-.fake
-.lo
-.wordpress
-.newsblog
-.xyz
